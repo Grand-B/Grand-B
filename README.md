@@ -1,9 +1,7 @@
 👋 Hi, I’m Grand or Brian depending on where you found out about me.
-I am a student studying Computer Science at University of New Brunswick with a specialization on cybersecurity.
+I'm the training coordinator for the UNB Cybersec club where we compete in CTF competitions regularly. 
 
-On this github page you might find CTF writeups regarding OSINT as I take a great interest in it; or Projects! 
-They ranging from little practical uses tools that I make for fun and giggles to useful tools!
-
+You will find write-ups for challenge I solved in CTF or random side projects that I intend to incorporate into the UNB Cybersec infrastructure
 
 <!---
 Grand-B/Grand-B is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
